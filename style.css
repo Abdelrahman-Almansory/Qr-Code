@@ -23,7 +23,6 @@ body {
     background-color: var(--background--color);
     font-size: var(--font--size);
     font-family: var(--font--family);
-    width: 1440px;
     height: 100vh;
     display: flex;
     align-items: center;
